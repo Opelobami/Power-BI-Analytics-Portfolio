@@ -22,6 +22,21 @@ This project leverages interactive dashboards to transform raw retail data into 
 
 ---
 
+## 🚚 Smart Logistics Analysis
+**A detailed analysis of smart logistics business exploring key performance metrics across shipment data, route performance, revenue trends, delay causes, and traffic conditions**
+
+By converting complex datasets into clear, data-driven visuals, this project analysis aims to:
+- Support strategic decision-making
+- Enhance delivery reliability and efficiency
+- Improve customer retention
+- Identify growth opportunities across routes and customer segments
+
+- **Tools:** Power BI, Power Query, DAX, Interactive Dashboards
+- **Preview:** [View Dashboard on Power BI Service →] (https://app.powerbi.com/view?r=eyJrIjoiMzM0OWEyNDctYWJjYy00NWZjLTg0MmMtMTA2OWRhZmIxYjZjIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)
+- **Repository:** [Explore Project →] (https://github.com/Opelobami/Smart-Logistics-Analysis)
+
+---
+
 ## 💼 About This Portfolio  
 
 This portfolio highlights my ability to:  
