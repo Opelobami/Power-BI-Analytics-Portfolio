@@ -1,62 +1,61 @@
-# 📊 Power BI Analytics Portfolio  
+# 🟨 Power BI Analytics Portfolio  
 
-A curated collection of **Power BI data analytics projects** demonstrating expertise in **data cleaning, modeling, DAX, visualization, and insight generation**.  
+A curated collection of **Power BI analytics projects** that demonstrate strong expertise in **data cleaning, modeling, DAX, visualization, and strategic insight generation**.  
 
-Each project showcases how I transform raw datasets into **actionable insights** using **Power BI, Power Query, and DAX** empowering organizations to make data-driven business decisions with clarity and confidence.  
+Each project showcases how I transform complex datasets into **interactive, business-ready dashboards** that empower organizations to make confident, data-driven decisions.  
 
 ---
 
-## 🧩 Featured Project  
+## 🧩 Featured Projects  
 
 ### 🌐 Global Electronics Retailer  
-**Comprehensive analysis of global retail sales, customer behavior, product performance, and store efficiency.**  
+**Comprehensive analysis of global sales performance, customer behavior, product trends, and store efficiency.**  
 
-This project leverages interactive dashboards to transform raw retail data into strategic insights that:  
-- Support **executive decision-making**  
-- Enhance **customer retention and profitability**  
-- Identify **growth opportunities** across regions, products, and markets  
+This project transforms retail data into actionable insights to:  
+- Drive **executive-level decision-making**  
+- Improve **customer retention and profit optimization**  
+- Identify **growth opportunities** across international markets  
 
-- **Tools:** Power BI, Power Query, DAX, Interactive Dashboards  
+- **Tools:** Power BI | Power Query | DAX | Interactive Dashboards  
 - **Preview:** [View Dashboard on Power BI Service →] (https://app.powerbi.com/view?r=eyJrIjoiYTNjOWJmOWMtNWRkZC00NzQ0LTg1OWEtMzM5ZWRiOWQwYjRhIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)  
 - **Repository:** [Explore Project →] (https://github.com/Opelobami/Global-Electronic-Retailer)  
 
 ---
 
-## 🚚 Smart Logistics Analysis
-**A detailed analysis of smart logistics business exploring key performance metrics across shipment data, route performance, revenue trends, delay causes, and traffic conditions**
+### 🚚 Smart Logistics Analysis  
+**An in-depth business intelligence solution analyzing delivery efficiency, route optimization, and operational performance.**  
 
-By converting complex datasets into clear, data-driven visuals, this project analysis aims to:
-- Support strategic decision-making
-- Enhance delivery reliability and efficiency
-- Improve customer retention
-- Identify growth opportunities across routes and customer segments
+This Power BI dashboard uncovers insights into shipment flow, delay patterns, and revenue forecasting to:  
+- Enhance **delivery reliability and customer satisfaction**  
+- Streamline **operational efficiency**  
+- Support **strategic and logistics planning** through predictive insights  
 
-- **Tools:** Power BI, Power Query, DAX, Interactive Dashboards
-- **Preview:** [View Dashboard on Power BI Service →] (https://app.powerbi.com/view?r=eyJrIjoiMzM0OWEyNDctYWJjYy00NWZjLTg0MmMtMTA2OWRhZmIxYjZjIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)
-- **Repository:** [Explore Project →] (https://github.com/Opelobami/Smart-Logistics-Analysis)
+- **Tools:** Power BI | Power Query | DAX | Data Modeling | Interactive Dashboards  
+- **Preview:** [View Dashboard on Power BI Service →] (https://app.powerbi.com/view?r=eyJrIjoiMzM0OWEyNDctYWJjYy00NWZjLTg0MmMtMTA2OWRhZmIxYjZjIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)  
+- **Repository:** [Explore Project →] (https://github.com/Opelobami/Smart-Logistics-Analysis)  
 
 ---
 
 ## 💼 About This Portfolio  
 
-This portfolio highlights my ability to:  
-- Clean and structure complex datasets for **accuracy and consistency**  
-- Build **robust data models** and calculate KPIs using **DAX**  
-- Design **intuitive, insight-driven dashboards** tailored to business needs  
-- Tell **data stories** that connect performance metrics to strategic decisions  
+This portfolio reflects my ability to deliver **end-to-end Power BI solutions** that combine technical skill with business acumen. It demonstrates expertise in:  
+- Transforming raw data into **high-integrity, analysis-ready models**  
+- Creating advanced **DAX measures and calculated KPIs**  
+- Designing **visually compelling dashboards** that tell a strategic data story  
+- Turning performance metrics into **clear, actionable business insights**  
 
-Each project reflects professional data visualization standards emphasizing clarity, interactivity, and actionable insight.  
-
----
-
-## 📬 Contact  
-
-If you’d like to connect, collaborate, or discuss analytics:  
-
-- **Name:** Opeyemi Ayodeji  
-- **LinkedIn:** [linkedin.com/in/opeyemi-ayodeji-86a696b0] (https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
-- **Email:** sopeyemi65@gmail.com  
+Every dashboard emphasizes **clarity, performance, and strategic storytelling**, ensuring data not only informs — but drives results.  
 
 ---
 
-✨ *Transforming data into decisions through insight-driven storytelling.*
+## 📬 Let’s Connect  
+
+If you’d like to collaborate, discuss data-driven strategy, or explore potential opportunities:  
+
+- **👤 Name:** Opeyemi Ayodeji  
+- **🔗 LinkedIn:** [linkedin.com/in/opeyemi-ayodeji-86a696b0] (https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
+- **📧 Email:** sopeyemi65@gmail.com  
+
+---
+
+✨ *Empowering smarter business decisions — one dashboard at a time.*  
