@@ -53,7 +53,7 @@ This Power BI dashboard uncovers insights into shipment flow, delay patterns, an
 If you’d like to collaborate, discuss data-driven strategy, or explore potential opportunities:  
 
 - **👤 Name:** Opeyemi Ayodeji  
-- **🔗 LinkedIn:** [Opeyemi-Ayodeji] (https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
+- **🔗 LinkedIn:** [Opeyemi-Ayodeji](https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
 - **📧 Email:** sopeyemi65@gmail.com  
 
 ---
