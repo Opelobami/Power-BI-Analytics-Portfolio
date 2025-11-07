@@ -6,7 +6,7 @@ Each project showcases how I transform complex datasets into **interactive, busi
 
 ---
 
-## 💼 About This Portfolio  
+## About This Portfolio  
 
 This portfolio reflects my ability to deliver **end-to-end Power BI solutions** that combine technical skill with business acumen. It demonstrates expertise in:  
 - Transforming raw data into **high-integrity, analysis-ready models**  
@@ -18,9 +18,9 @@ Every dashboard emphasizes **clarity, performance, and strategic storytelling**,
 
 ---
 
-## 🧩 Featured Projects  
+## Featured Projects  
 
-### 🌐 Global Electronics Retailer  
+### Global Electronics Retailer  
 **Comprehensive analysis of global sales performance, customer behavior, product trends, and store efficiency.**  
 
 This project transforms retail data into actionable insights to:  
@@ -48,7 +48,7 @@ This Power BI dashboard uncovers insights into shipment flow, delay patterns, an
 
 ---
 
-## 📬 Let’s Connect  
+## Let’s Connect  
 
 If you’d like to collaborate, discuss data-driven strategy, or explore potential opportunities:  
 
